@@ -4,4 +4,4 @@ The world happiness report is a survey of the state of global happiness. This ra
 
 The happiness scores and rankings use data from the Gallup World Poll. The questions, known as the Cantril ladder, asks respondents to think of a ladder with the best possible life for them being a 10 and the worst possible life being a 0 and to rate their own current lives on that scale. Six factors are used in this survey including economic production(GDP per Capita), social support(Family), life expectancy, freedom, absence of corruption, and generosity.
 
-I will ask exploratory data analysis questions and use regression anlysis to find answers to some questions.
+Using python I will answer exploratory data analysis questions and use regression anlysis to find answers to questions.  
