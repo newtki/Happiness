@@ -1,4 +1,4 @@
-# Happiness
+# World Happiness
 ## Context
 The world happiness report is a survey of the state of global happiness. This ranking includes 155 countires by their happiness levels starting from 2012 to 2019. This survey is conducted by the United Nation to celebrate the International Day of Happines on March 20th.
 
